@@ -1,0 +1,120 @@
+{
+  "pageTitle": "Inicio",
+  "header": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "solutions": "Maxgeo Consultoría",
+    "services": "Maxgeo Servicios",
+    "socialProjects": "Proyectos Sociales",
+    "workWithUs": "Trabaja con Nosotros",
+    "suppliers": "Proveedores",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "company": "Empresa",
+    "opportunities": "Oportunidades",
+    "contactUs": "Contáctenos",
+    "about": "Sobre Nosotros",
+    "consulting": "Maxgeo Consultoría",
+    "services": "Maxgeo Servicios",
+    "socialProjects": "Proyectos Sociales",
+    "faq": "FAQ",
+    "workWithUs": "Trabaja con Nosotros",
+    "beASupplier": "Sea un Proveedor",
+    "contact": "Contacto",
+    "description": "Haciendo posible el crecimiento sostenible de Brasil con excelencia técnica e innovación en ingeniería de consultoría.",
+    "rights": "© {{year}} Maxgeo Consultoria Ltda. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Uso"
+  },
+  "contactPage": {
+    "title": "Contáctenos",
+    "subtitle": "Estamos listos para convertir su proyecto en realidad. Hable con nosotros y descubra nuestras soluciones estratégicas.",
+    "formTitle": "Solicite su Cotización",
+    "formSubtitle": "Complete el formulario y nuestro equipo se pondrá en contacto en hasta 24 horas.",
+    "fullName": "Nombre Completo *",
+    "fullNamePlaceholder": "Su nombre",
+    "email": "Correo Electrónico *",
+    "emailPlaceholder": "su@email.com",
+    "phone": "Teléfono",
+    "phonePlaceholder": "(19) 99999-9999",
+    "message": "Mensaje *",
+    "messagePlaceholder": "Describa su proyecto...",
+    "submitButton": "Enviar Mensaje",
+    "infoTitle": "Canales de Atención",
+    "infoAdminEmailTitle": "Correo Administrativo",
+    "infoAdminEmailDesc": "Para asuntos generales",
+    "infoCommercialEmailTitle": "Correo Comercial",
+    "infoCommercialEmailDesc": "Para propuestas y asociaciones",
+    "infoPhoneTitle": "Teléfono",
+    "infoPhoneDesc": "Lun a Vie, 8h a 18h",
+    "infoWhatsappTitle": "WhatsApp (Comercial)",
+    "infoWhatsappDesc": "Servicio rápido",
+    "infoLocationTitle": "Ubicación",
+    "infoLocationDesc": "Oficina principal",
+    "officeHoursTitle": "Horario de Atención",
+    "officeHoursWeek": "Lunes a Viernes:",
+    "officeHoursTime": "8h a 18h",
+    "officeHoursWeekend": "Sábado y Domingo:",
+    "officeHoursWeekendStatus": "Cerrado",
+    "followUs": "Síganos"
+  },
+  "home": {
+    "headline": "Soluciones Territoriales y Socioambientales para el Futuro",
+    "subheadline": "Haciendo posible el crecimiento sostenible de Brasil con excelencia técnica e innovación en ingeniería de consultoría.",
+    "ctaButton": "Conozca Nuestras Soluciones",
+    "consulting": {
+      "title": "Maxgeo Consultoría",
+      "subtitle": "Ofrecemos una cartera completa de soluciones para garantizar el éxito de su emprendimiento, desde la planificación hasta la ejecución."
+    },
+    "learnMore": "Saber Más",
+    "projects": {
+      "title": "Proyectos Realizados",
+      "subtitle": "Nuestra experiencia se traduce en resultados concretos. Vea nuestros números en diversos sectores."
+    },
+    "stats": {
+      "wind": "Parques Eólicos",
+      "transmission": "Líneas de Transmisión",
+      "substations": "Subestaciones",
+      "hydroelectric": "Centrales Hidroeléctricas",
+      "industries": "Industrias"
+    },
+    "banner": {
+      "title": "Miles de km de transmisión ya instalados.",
+      "subtitle": "Nuestra experiencia garantiza la viabilidad y el éxito de proyectos complejos en todo Brasil.",
+      "cta": "Solicite su Cotización"
+    },
+    "services": {
+      "title": "Maxgeo Servicios",
+      "subtitle": "Equipos modernos y tecnología de punta para optimizar sus resultados en la obra o en el campo."
+    }
+  },
+  "solutions": {
+    "desimpedimento-fundiario": {
+      "title": "Despeje de Tierras",
+      "description": "Garantizamos la regularización completa de áreas para la implementación de grandes proyectos de infraestructura."
+    },
+    "fiscalizacao-sociopatrimonial": {
+      "title": "Inspección Sociopatrimonial",
+      "description": "Monitoreamos y gestionamos los impactos sociales y patrimoniales de los proyectos, asegurando la integridad de los activos."
+    },
+    "licenciamento-ambiental": {
+      "title": "Licenciamiento Ambiental",
+      "description": "Conducimos procesos de licenciamiento ambiental con experiencia técnica, garantizando la conformidad y viabilidad de sus proyectos."
+    },
+    "topografia-cartografia-geodesia": {
+      "title": "Topografía, Cartografía y Geodesia",
+      "description": "Utilizamos tecnología de punta para proporcionar datos geoespaciales de alta precisión para sus proyectos."
+    }
+  },
+  "services": {
+    "terraplanagem-miniescavadeira": {
+      "title": "Servicios de Nivelación con Mini Excavadora",
+      "description": "Equipos versátiles y operadores calificados para trabajos de precisión en lugares de difícil acceso."
+    },
+    "pulverizacao-agricola-drone": {
+      "title": "Servicios de Pulverización Agrícola con Dron",
+      "description": "Revolucione su cultivo con la aplicación precisa y sostenible de insumos, aumentando la productividad."
+    }
+  }
+}

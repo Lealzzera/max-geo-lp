@@ -1,0 +1,120 @@
+{
+  "pageTitle": "Início",
+  "header": {
+    "home": "Home",
+    "about": "Sobre Nós",
+    "solutions": "Maxgeo Consultoria",
+    "services": "Maxgeo Serviços",
+    "socialProjects": "Trabalhos Sociais",
+    "workWithUs": "Trabalhe Conosco",
+    "suppliers": "Seja um Fornecedor",
+    "contact": "Contato"
+  },
+  "footer": {
+    "company": "Empresa",
+    "opportunities": "Oportunidades",
+    "contactUs": "Fale Conosco",
+    "about": "Sobre Nós",
+    "consulting": "Maxgeo Consultoria",
+    "services": "Maxgeo Serviços",
+    "socialProjects": "Trabalhos Sociais",
+    "faq": "FAQ",
+    "workWithUs": "Trabalhe Conosco",
+    "beASupplier": "Seja um Fornecedor",
+    "contact": "Contato",
+    "description": "Viabilizando o crescimento sustentável do Brasil com excelência técnica e inovação em engenharia consultiva.",
+    "rights": "© {{year}} Maxgeo Consultoria Ltda. Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Uso"
+  },
+  "contactPage": {
+    "title": "Entre em Contato",
+    "subtitle": "Estamos prontos para transformar seu projeto em realidade. Fale conosco e descubra nossas soluções estratégicas.",
+    "formTitle": "Solicite seu Orçamento",
+    "formSubtitle": "Preencha o formulário e nossa equipe entrará em contato em até 24 horas.",
+    "fullName": "Nome Completo *",
+    "fullNamePlaceholder": "Seu nome",
+    "email": "E-mail *",
+    "emailPlaceholder": "seu@email.com",
+    "phone": "Telefone",
+    "phonePlaceholder": "(19) 99999-9999",
+    "message": "Mensagem *",
+    "messagePlaceholder": "Descreva seu projeto...",
+    "submitButton": "Enviar Mensagem",
+    "infoTitle": "Canais de Atendimento",
+    "infoAdminEmailTitle": "E-mail Administrativo",
+    "infoAdminEmailDesc": "Para assuntos gerais",
+    "infoCommercialEmailTitle": "E-mail Comercial",
+    "infoCommercialEmailDesc": "Para propostas e parcerias",
+    "infoPhoneTitle": "Telefone",
+    "infoPhoneDesc": "Seg a Sex, 8h às 18h",
+    "infoWhatsappTitle": "WhatsApp (Comercial)",
+    "infoWhatsappDesc": "Atendimento rápido",
+    "infoLocationTitle": "Localização",
+    "infoLocationDesc": "Escritório principal",
+    "officeHoursTitle": "Horário de Atendimento",
+    "officeHoursWeek": "Segunda a Sexta:",
+    "officeHoursTime": "8h às 18h",
+    "officeHoursWeekend": "Sábado e Domingo:",
+    "officeHoursWeekendStatus": "Fechado",
+    "followUs": "Siga-nos"
+  },
+  "home": {
+    "headline": "Soluções Fundiárias e Socioambientais para o Futuro",
+    "subheadline": "Viabilizando o crescimento sustentável do Brasil com excelência técnica e inovação em engenharia consultiva.",
+    "ctaButton": "Conheça Nossas Soluções",
+    "consulting": {
+      "title": "Maxgeo Consultoria",
+      "subtitle": "Oferecemos um portfólio completo de soluções para garantir o sucesso do seu empreendimento, do planejamento à execução."
+    },
+    "learnMore": "Saiba Mais",
+    "projects": {
+      "title": "Projetos Realizados",
+      "subtitle": "Nossa experiência se traduz em resultados concretos. Confira nossos números em diversos setores."
+    },
+    "stats": {
+      "wind": "Eólicas",
+      "transmission": "Linhas de Transmissão",
+      "substations": "Subestações",
+      "hydroelectric": "Usinas Hidrelétricas",
+      "industries": "Indústrias"
+    },
+    "banner": {
+      "title": "Milhares de km de transmissão já instalados.",
+      "subtitle": "Nossa expertise garante a viabilidade e o sucesso de projetos complexos em todo o Brasil.",
+      "cta": "Solicite seu Orçamento"
+    },
+    "services": {
+      "title": "Maxgeo Serviços",
+      "subtitle": "Equipamentos modernos e tecnologia de ponta para otimizar seus resultados na obra ou no campo."
+    }
+  },
+  "solutions": {
+    "desimpedimento-fundiario": {
+      "title": "Desimpedimento Fundiário",
+      "description": "Garantimos a regularização completa de áreas para a implantação de grandes projetos de infraestrutura."
+    },
+    "fiscalizacao-sociopatrimonial": {
+      "title": "Fiscalização Sociopatrimonial",
+      "description": "Monitoramos e gerenciamos os impactos sociais e patrimoniais de empreendimentos, assegurando a integridade dos ativos."
+    },
+    "licenciamento-ambiental": {
+      "title": "Licenciamento Ambiental",
+      "description": "Conduzimos processos de licenciamento ambiental com expertise técnica, garantindo a conformidade e viabilidade de seus projetos."
+    },
+    "topografia-cartografia-geodesia": {
+      "title": "Topografia, Cartografia e Geodésia",
+      "description": "Utilizamos tecnologia de ponta para fornecer dados geoespaciais de alta precisão para seus projetos."
+    }
+  },
+  "services": {
+    "terraplanagem-miniescavadeira": {
+      "title": "Serviços de Terraplanagem com Miniescavadeira",
+      "description": "Equipamentos versáteis e operadores qualificados para obras de precisão em locais de difícil acesso."
+    },
+    "pulverizacao-agricola-drone": {
+      "title": "Serviços de Pulverização Agrícola com Drone",
+      "description": "Revolucione sua lavoura com a aplicação precisa e sustentável de insumos, aumentando a produtividade."
+    }
+  }
+}
